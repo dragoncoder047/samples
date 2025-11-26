@@ -4,7 +4,7 @@ pitch offsets: (for use in custom unison in slarmoo's box)
 
 motor.mp3    : -4.4
 ruler.mp3    : 8.8
-pipeding.mp3 : 3.1
+pipeding.mp3 : -20.9
 pipeslap.mp3 : 9.0
 
 percussion:
