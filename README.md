@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/dragoncoder047/samples/file.mp3
+https://cdn.jsdelivr.net/gh/dragoncoder047/samples/{file.mp3}
